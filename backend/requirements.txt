@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-cors==4.0.0
+pymongo==4.6.0
+python-dotenv==1.0.0
+pytest==7.4.3
+flask-jwt-extended==4.5.3
+pdfkit==1.0.0
